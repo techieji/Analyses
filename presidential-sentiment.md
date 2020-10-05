@@ -1,8 +1,8 @@
 # An Analysis on the Sentiment of the Presidential Candidates
 
-![An Analysis on the Sentiment of the Presidential Candidates](Fig1.svg)
-
 People don't realize how much information they put in the public each time they tweet. You can tell their age, their experience, their mental state, and more from just a single tweet. It must be hard running for public office because you willingly place the public spotlight on themselves. And the information that is put out there is extremely easy to access. To gain some context about an event in the spotlight, the presidental election, I did my own analysis on the subject. I wanted to see which candidate is more postive. And by graphing the results, I found an answer.
+
+![An Analysis on the Sentiment of the Presidential Candidates](Fig1.svg)
 
 The above graph compares subjectivity (y-axis), how much opinion there is in a piece of text, vs polarity (x-axis), how positive or negative a piece of text is. I pulled 100 of President Trump's tweets, 100 of Former Vice President Biden tweets, and 100 random tweets about the election. Then, I plotted each of these groups on a graph. The blue line is an estimation of each group.
 
