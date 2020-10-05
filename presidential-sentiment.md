@@ -1,6 +1,6 @@
 # An Analysis on the Sentiment of the Presidential Candidates
 
-!(An Analysis on the Sentiment of the Presidential Candidates)[Fig1.svg]
+![An Analysis on the Sentiment of the Presidential Candidates](Fig1.svg)
 
 You hear a lot about the presidential candidates, don't you? One thing that you hear a lot is how negative President Donald Trump is. I set myself to see whether or not this is true, with actual proof, not just a statement with examples. And surprisingly, I found evidence!
 
