@@ -12,4 +12,4 @@ The blue line for all three graphs starts from the bottom near zero polarity. Th
 
 When you read a few of Trump's tweets and a few of Biden's tweets, you can get an answer of some sort. Trump's campaign relies on how he is better than the alternative. The logical way to get this point across is to raise the other sides negative aspects to light. Biden, on the other hand, tweets very positive messages, although they are fairly repetitive. 
 
-So what can we *do* with this graph? By analyzing a person's tweets, you get insight into a person's mind. In my opinion, this data implies that Trump is a negative person, while Biden is a positive person who can comfort the American people. But it depends on the person interpreting the data. But however you lean, one important thing to learn is this: a person is only as good as their mind.
+Perhaps this post has been interesting for you. I leave it up to the reader to interpret the data. 
