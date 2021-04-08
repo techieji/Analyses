@@ -8,4 +8,4 @@ and run the code.
 
  * **Experiments.ipynb**: A [jupyter notebook](https://jupyter.org/) containing the election analyses
  * **NJHS.ipynd**: another jupyter notebook containing materials related to education
- * **education.xslm** and **education.py**: A macro-enabled spreadsheet and a python file that work together (most of the time) using [xlwings](xlwings.org)
+ * **education.xslm** and **education.py**: A macro-enabled spreadsheet and a python file that work together (most of the time) using [xlwings](https://xlwings.org)
