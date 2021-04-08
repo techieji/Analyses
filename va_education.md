@@ -11,11 +11,11 @@ special characteristics, such as race or wealth? I decided to investigate each o
 
 ## Wealth
 
-| Educational Affluency       | Monetary Affluency      |
-:----------------------------:|:------------------------:
-![Fig3.png](Fig3.png)         | ![Fig4.png](Fig4.png)   |
+| Educational Affluency                          | Monetary Affluency                          |
+|:----------------------------------------------:|:-------------------------------------------:|
+| [![Fig3.png](Fig3.png)](va-edu-map.md)         | [![Fig4.png](Fig4.png)](va-wealth-map.md)   |
 
-I made the maps above to compare quality of education<a id='a1'>[1](#f1)</a> to median wealth in the region. As you can see,
+I made the maps above to compare quality of education<a id='a1'><sup>[1](#f1)</sup></a> to median wealth in the region. As you can see,
 there appears to be no or very little correlation between educational levels and the representative
 person's wealth. But this leaves out one key detail:
 
