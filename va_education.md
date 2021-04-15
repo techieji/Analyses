@@ -49,4 +49,10 @@ Per Pupil Spending has *nearly no* effect on SOL Performance! I've chalked this 
 of initiative; as said above, poorer people might not be as willing or as able to pursue a better
 education. 
 
-## To Be Continued...
+## The Human Side
+
+Above, I've analyzed data. Whenever you use data, however, you forget about the people you are studying.
+In my scenario, I studied teachers. And I found out that **teachers are working thankless jobs, sacrificing
+their time, money, and relationships to prepare the future generation for another generation. We should not
+be treating teachers like this.** Teachers teach because they love teaching. Should we not reward them for their
+back-breaking labor by at least paying them well?
